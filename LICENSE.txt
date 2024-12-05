@@ -1,0 +1,3 @@
+MIT LICENSE
+
+Copyright (c) 2024 Maria Eduarda Correia
